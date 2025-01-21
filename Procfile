@@ -1,1 +1,0 @@
-web: serve -s dist/prototip-digital-w -l 8080
